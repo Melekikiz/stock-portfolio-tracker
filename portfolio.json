@@ -1,0 +1,10 @@
+[
+    {
+        "symbol": "AAPL",
+        "amount": 10
+    },
+    {
+        "symbol": "BTC",
+        "amount": 5
+    }
+]
